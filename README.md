@@ -1,6 +1,11 @@
 # calculator
 A simple calculator.
 
+## How to run
+* In local directory, run `npm install` to load dependencies.
+* Then run `npm start` to start app.
+* Go to `localhost:5000` in your browser.
+
 ## Logs
 * Looked up express.static.
 * Looked up syntax for loading body-parser middleware.
